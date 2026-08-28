@@ -1,7 +1,7 @@
 [project]
 name = "browser-toolkit"
 license = "MIT"
-version = "0.0.1a3"
+version = "0.0.1a4"
 description = "Toolkit that provides a single inteface to interact with different browser automations."
 readme = "README.md"
 requires-python = ">=3.12"
